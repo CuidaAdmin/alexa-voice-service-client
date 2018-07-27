@@ -21,7 +21,7 @@ setup(
     author='Richard Tier',
     author_email='rikatee@gmail.com',
     description='Python Client for Alexa Voice Service (AVS)',
-    long_description=open('README.rst').read(),
+    #long_description=open('README.rst').read(),
     include_package_data=True,
     install_requires=get_requirements(),
     classifiers=[
