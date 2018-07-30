@@ -9,7 +9,7 @@ from hyper import HTTP20Connection
 
 
 class ConnectionManager:
-    host = 'avs-alexa-eu.amazon.com'
+    host = 'avs-alexa-na.amazon.com'
     connection = None
 
     def create_connection(self):
